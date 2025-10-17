@@ -1,4 +1,4 @@
-# ☕ Solana Blink - Tip Jar
+# Solana Blink - Tip Jar
 
 Deploy your own tip jar Blink in 60 seconds!
 

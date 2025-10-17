@@ -50,7 +50,6 @@ Test at: https://actions.dialect.to
 
 ## 📚 Resources
 
-- [Workshop Discord](https://discord.gg/your-link)
 - [Solana Actions Docs](https://solana.com/docs/advanced/actions)
 
 ---
